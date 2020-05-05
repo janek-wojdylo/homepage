@@ -1,0 +1,45 @@
+body{
+    background: #9f92f3;
+}
+section{
+    background: whitesmoke;
+}
+
+h1 {
+    color:blue;
+}
+p{
+    color: black;
+}
+h2{
+    color:#1460AA; 
+}
+p{
+    color:rgb(41, 28, 28)
+}
+footer{
+    background: #29db11;
+}
+.hotpink-header {
+    color:hotpink;
+}
+#top {
+    background:rgb(87, 55, 13);
+}
+
+p a {
+    color:rgb(226, 116, 43);
+}
+nav a {
+    color:#2e1414;
+}
+
+.akapit {
+    color:blue;
+}
+.p {
+    color:greenyellow;
+}
+.about-me {
+    color: rgb(150, 18, 24);
+}
